@@ -6,7 +6,7 @@
 
 ## 🎯Purpose
 
-The Native Entity Connector Crosswalk is a public data product from the [Center for Indian Country Development (CICD)](https://www.minneapolisfed.org/indiancountry) at the Federal Reserve Bank of Minneapolis.
+The [Native Entity Connector Crosswalk](https://www.minneapolisfed.org/indiancountry/resources/public-indian-country-datasets) is a public data product from the [Center for Indian Country Development (CICD)](https://www.minneapolisfed.org/indiancountry) at the Federal Reserve Bank of Minneapolis.
 
 Sources of information focused on Native communities, governments, and other concepts are often difficult to connect to one another. Datasets often refer to Native entities in slightly different ways, making linkages challenging across scattered sources. Various information systems include only selected subsets of Native entities and typically do not reflect distinctive relationships among peoples, governance structures, and geographies.
 
