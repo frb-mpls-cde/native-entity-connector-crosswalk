@@ -236,4 +236,4 @@ Key contributors over time to the concept and compilation of this product have b
 
 ## 📫 Contact
 
-The Center for Indian Country Development welcomes questions and feedback: [CICD.data\@mpls.frb.org](mailto:CICD.data@mpls.frb.org){.email}.
+The Center for Indian Country Development welcomes questions and feedback: [CICD.data\@mpls.frb.org](mailto:CICD.data@mpls.frb.org).
