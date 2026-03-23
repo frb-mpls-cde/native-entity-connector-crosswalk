@@ -218,6 +218,10 @@ Pairings were made by the following means:
 
 -   If no pairing was successful using geospatial methods, manually based on web research
 
+#### **Entity-self-governance consortium pairings**
+
+These pairings were made manually using affiliate information listed on consortium websites.
+
 ------------------------------------------------------------------------
 
 ## 📝 Additional notes
