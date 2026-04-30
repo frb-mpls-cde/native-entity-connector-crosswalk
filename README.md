@@ -200,7 +200,7 @@ Download dates for each source can be found in the `data_dictionary` tab.
 
 #### **Entity-geography pairings**
 
-🔎 *Users are encouraged to refer to Department of Interior geography–entity crosswalk data products for further detail; links forthcoming.*
+🔎 *Users are encouraged to refer to [Department of Interior geography–entity crosswalk data products](https://github.com/doi-do/census-tribal) for further detail.*
 
 The `native_geopairs` tab of the dataset includes all Native geographies tabulated by the U.S. Census Bureau and all tribal and Alaska Native Village entities (state- and federally recognized).
 
